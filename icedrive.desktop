@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Icedrive
+Comment=Start Icedrive storage client
+Encoding=UTF-8
+Exec=/opt/Icedrive/Icedrive_Portable/Icedrive --no-sandbox --disable-gpu
+Icon=/opt/Icedrive/Icedrive_Portable/resources/Icedrive.png
+Type=Application
+Terminal=false
