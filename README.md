@@ -9,3 +9,13 @@ Copy/clone this directory to your Icedrive folder. Run ```./icedrive-gnome-setup
 ## Manual setup if you don't want to run the script
 
 Just take a look at the icedrive.desktop, modify Icon and Exec how you want and put it in the directories Gnome uses. If you want to get fancy with the icons and you have all the different resolutions, check Gnome documentation for desktop icons.
+
+## Checking the results
+
+After running the script or putting the file in manually, running Icedrive should be easily accessible from your activities view by typing it and the icon should change from this
+
+![No-icon](No-icon.png)
+
+To the normal Icedrive icon
+
+![Icedrive-icon-fixed](Icedrive-icon-fixed.png)
