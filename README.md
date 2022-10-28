@@ -1,3 +1,5 @@
+Update: This project has served its purpose as Icedrive now offers AppImage and Snap options. Please use those instead. This setup is now obsolete.
+
 # Icedrive desktop
 
 This is a quick fix to Gnome desktop environment I whipped up during my free time. It's intended to modify the icedrive.desktop file to point to where you installed Icedrive and add an icon so that it's nicer to use on the desktop. When Icedrive client for Linux is a bit further along, this is probably no longer useful, but this project was created during July 2020, when no icon or desktop file was included.
